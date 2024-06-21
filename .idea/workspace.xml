@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e446028-6bb1-4afc-8f5a-0321bcc8b0cf" name="Changes" comment="LabWeek6 done!">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/08b0a62d-c6e3-4a11-9cbc-d1f43f64ecc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/08b0a62d-c6e3-4a11-9cbc-d1f43f64ecc2.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5e446028-6bb1-4afc-8f5a-0321bcc8b0cf" name="Changes" comment="LabWeek6 done!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718991441965</updated>
-      <workItem from="1718991443046" duration="670000" />
+      <workItem from="1718991443046" duration="1052000" />
     </task>
     <task id="LOCAL-00001" summary="LabWeek6 done!">
       <option name="closed" value="true" />
@@ -80,7 +78,47 @@
       <option name="project" value="LOCAL" />
       <updated>1718991589644</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="LabWeek6 done!">
+      <option name="closed" value="true" />
+      <created>1718992117995</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718992117995</updated>
+    </task>
+    <task id="LOCAL-00003" summary="LabWeek6 done!">
+      <option name="closed" value="true" />
+      <created>1718992131839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718992131839</updated>
+    </task>
+    <task id="LOCAL-00004" summary="LabWeek6 done!">
+      <option name="closed" value="true" />
+      <created>1718992153486</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718992153486</updated>
+    </task>
+    <task id="LOCAL-00005" summary="LabWeek6 done!">
+      <option name="closed" value="true" />
+      <created>1718992280715</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718992280715</updated>
+    </task>
+    <task id="LOCAL-00006" summary="LabWeek6 done!">
+      <option name="closed" value="true" />
+      <created>1718992297553</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718992297553</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
